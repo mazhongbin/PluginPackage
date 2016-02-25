@@ -1,0 +1,13 @@
+F:\PluginPackage\PluginPackage.ContainerTests\bin\Debug\PluginPackage.ContainerTests.dll
+F:\PluginPackage\PluginPackage.ContainerTests\bin\Debug\PluginPackage.ContainerTests.pdb
+F:\PluginPackage\PluginPackage.ContainerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\PluginPackage\PluginPackage.ContainerTests\bin\Debug\PluginPackage.Configurator.dll
+F:\PluginPackage\PluginPackage.ContainerTests\bin\Debug\PluginPackage.Container.dll
+F:\PluginPackage\PluginPackage.ContainerTests\bin\Debug\PluginPackage.Core.dll
+F:\PluginPackage\PluginPackage.ContainerTests\bin\Debug\PluginPackage.Configurator.pdb
+F:\PluginPackage\PluginPackage.ContainerTests\bin\Debug\PluginPackage.Container.pdb
+F:\PluginPackage\PluginPackage.ContainerTests\bin\Debug\PluginPackage.Core.pdb
+F:\PluginPackage\PluginPackage.ContainerTests\obj\Debug\PluginPackage.ContainerTests.csprojResolveAssemblyReference.cache
+F:\PluginPackage\PluginPackage.ContainerTests\obj\Debug\PluginPackage.ContainerTests.dll
+F:\PluginPackage\PluginPackage.ContainerTests\obj\Debug\PluginPackage.ContainerTests.pdb
+F:\PluginPackage\PluginPackage.ContainerTests\bin\Debug\PluginConfig.xml

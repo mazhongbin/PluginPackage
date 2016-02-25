@@ -1,0 +1,14 @@
+F:\PluginPackage\Test.Demo\bin\Debug\Test.Demo.dll
+F:\PluginPackage\Test.Demo\bin\Debug\Test.Demo.pdb
+F:\PluginPackage\Test.Demo\bin\Debug\Test.ITest.dll
+F:\PluginPackage\Test.Demo\bin\Debug\Test.ITest.pdb
+F:\PluginPackage\Test.Demo\obj\Debug\Test.Demo.csprojResolveAssemblyReference.cache
+F:\PluginPackage\Test.Demo\obj\Debug\Test.Demo.dll
+F:\PluginPackage\Test.Demo\obj\Debug\Test.Demo.pdb
+D:\新文件夹\PluginPackage\Test.Demo\bin\Debug\Test.Demo.dll
+D:\新文件夹\PluginPackage\Test.Demo\bin\Debug\Test.Demo.pdb
+D:\新文件夹\PluginPackage\Test.Demo\bin\Debug\Test.ITest.dll
+D:\新文件夹\PluginPackage\Test.Demo\bin\Debug\Test.ITest.pdb
+D:\新文件夹\PluginPackage\Test.Demo\obj\Debug\Test.Demo.csprojResolveAssemblyReference.cache
+D:\新文件夹\PluginPackage\Test.Demo\obj\Debug\Test.Demo.dll
+D:\新文件夹\PluginPackage\Test.Demo\obj\Debug\Test.Demo.pdb

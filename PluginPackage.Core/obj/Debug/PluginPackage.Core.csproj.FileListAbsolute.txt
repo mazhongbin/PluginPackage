@@ -1,0 +1,9 @@
+F:\PluginPackage\PluginPackage.Core\bin\Debug\PluginPackage.Core.dll
+F:\PluginPackage\PluginPackage.Core\bin\Debug\PluginPackage.Core.pdb
+F:\PluginPackage\PluginPackage.Core\obj\Debug\PluginPackage.Core.dll
+F:\PluginPackage\PluginPackage.Core\obj\Debug\PluginPackage.Core.pdb
+F:\PluginPackage\PluginPackage.Core\obj\Debug\PluginPackage.Core.csprojResolveAssemblyReference.cache
+D:\新文件夹\PluginPackage\PluginPackage.Core\bin\Debug\PluginPackage.Core.dll
+D:\新文件夹\PluginPackage\PluginPackage.Core\bin\Debug\PluginPackage.Core.pdb
+D:\新文件夹\PluginPackage\PluginPackage.Core\obj\Debug\PluginPackage.Core.dll
+D:\新文件夹\PluginPackage\PluginPackage.Core\obj\Debug\PluginPackage.Core.pdb

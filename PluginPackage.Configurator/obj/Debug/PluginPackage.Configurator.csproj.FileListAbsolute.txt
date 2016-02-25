@@ -1,0 +1,14 @@
+F:\PluginPackage\PluginPackage.Configurator\bin\Debug\PluginPackage.Configurator.dll
+F:\PluginPackage\PluginPackage.Configurator\bin\Debug\PluginPackage.Configurator.pdb
+F:\PluginPackage\PluginPackage.Configurator\bin\Debug\PluginPackage.Core.dll
+F:\PluginPackage\PluginPackage.Configurator\bin\Debug\PluginPackage.Core.pdb
+F:\PluginPackage\PluginPackage.Configurator\obj\Debug\PluginPackage.Configurator.csprojResolveAssemblyReference.cache
+F:\PluginPackage\PluginPackage.Configurator\obj\Debug\PluginPackage.Configurator.dll
+F:\PluginPackage\PluginPackage.Configurator\obj\Debug\PluginPackage.Configurator.pdb
+D:\新文件夹\PluginPackage\PluginPackage.Configurator\bin\Debug\PluginPackage.Configurator.dll
+D:\新文件夹\PluginPackage\PluginPackage.Configurator\bin\Debug\PluginPackage.Configurator.pdb
+D:\新文件夹\PluginPackage\PluginPackage.Configurator\bin\Debug\PluginPackage.Core.dll
+D:\新文件夹\PluginPackage\PluginPackage.Configurator\bin\Debug\PluginPackage.Core.pdb
+D:\新文件夹\PluginPackage\PluginPackage.Configurator\obj\Debug\PluginPackage.Configurator.csprojResolveAssemblyReference.cache
+D:\新文件夹\PluginPackage\PluginPackage.Configurator\obj\Debug\PluginPackage.Configurator.dll
+D:\新文件夹\PluginPackage\PluginPackage.Configurator\obj\Debug\PluginPackage.Configurator.pdb
