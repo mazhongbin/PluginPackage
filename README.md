@@ -12,9 +12,8 @@ namespace Demo.ITest
         string GetTestResult2();
     }
 }
-```
 
-```
+
 namespace Demo.ITest
 {
     public interface ITestPlugin
