@@ -3,7 +3,7 @@
 
 
 1. 设计接口
-创建一个类库项目Test.ITest，在这个项目里，设计两个接口。
+创建一个类库项目Test.ITest，在这个项目里，设计两个接口
 ```
 namespace Demo.ITest
 {
