@@ -1,11 +1,11 @@
 # PluginPackage
 该工具可以使你的应用程序实现插件式的项目,只需更改PluginConfig.xml配置文件即可切换组件。
-```
-```
+
+# 例子
 
 1. 设计接口
 创建一个类库项目Test.ITest，在这个项目里，设计两个接口
-```
+ ```
 namespace Demo.ITest
 {
     public interface ITest2Plugin
@@ -22,7 +22,7 @@ namespace Demo.ITest
         string GetTestResult();
     }
 }
-```
+ ```
 
 1. 创建类库项目Test.Demo并引用刚刚创建的接口DLL
 实现刚刚创建的接口
