@@ -7,3 +7,7 @@ D:\新文件夹\PluginPackage\Test.ITest\bin\Debug\Test.ITest.dll
 D:\新文件夹\PluginPackage\Test.ITest\bin\Debug\Test.ITest.pdb
 D:\新文件夹\PluginPackage\Test.ITest\obj\Debug\Test.ITest.dll
 D:\新文件夹\PluginPackage\Test.ITest\obj\Debug\Test.ITest.pdb
+F:\Project\PluginPackage\Test.ITest\bin\Debug\Test.ITest.dll
+F:\Project\PluginPackage\Test.ITest\bin\Debug\Test.ITest.pdb
+F:\Project\PluginPackage\Test.ITest\obj\Debug\Test.ITest.dll
+F:\Project\PluginPackage\Test.ITest\obj\Debug\Test.ITest.pdb

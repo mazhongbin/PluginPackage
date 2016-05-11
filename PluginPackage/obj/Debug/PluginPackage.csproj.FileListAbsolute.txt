@@ -20,3 +20,14 @@ D:\新文件夹\PluginPackage\PluginPackage\bin\Debug\PluginPackage.Core.pdb
 D:\新文件夹\PluginPackage\PluginPackage\obj\Debug\PluginPackage.csprojResolveAssemblyReference.cache
 D:\新文件夹\PluginPackage\PluginPackage\obj\Debug\PluginPackage.dll
 D:\新文件夹\PluginPackage\PluginPackage\obj\Debug\PluginPackage.pdb
+F:\Project\PluginPackage\PluginPackage\bin\Debug\PluginPackage.dll
+F:\Project\PluginPackage\PluginPackage\bin\Debug\PluginPackage.pdb
+F:\Project\PluginPackage\PluginPackage\bin\Debug\PluginPackage.Configurator.dll
+F:\Project\PluginPackage\PluginPackage\bin\Debug\PluginPackage.Container.dll
+F:\Project\PluginPackage\PluginPackage\bin\Debug\PluginPackage.Core.dll
+F:\Project\PluginPackage\PluginPackage\bin\Debug\PluginPackage.Configurator.pdb
+F:\Project\PluginPackage\PluginPackage\bin\Debug\PluginPackage.Container.pdb
+F:\Project\PluginPackage\PluginPackage\bin\Debug\PluginPackage.Core.pdb
+F:\Project\PluginPackage\PluginPackage\obj\Debug\PluginPackage.csprojResolveAssemblyReference.cache
+F:\Project\PluginPackage\PluginPackage\obj\Debug\PluginPackage.dll
+F:\Project\PluginPackage\PluginPackage\obj\Debug\PluginPackage.pdb

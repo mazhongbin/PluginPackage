@@ -29,7 +29,7 @@ namespace PluginPackage
                             if (t == null) continue;
                             PluginList.Add(t);
                         }
-                        catch (Exception) { }
+                        catch (Exception ex) { }
                     }
                 }
             }
@@ -65,6 +65,7 @@ namespace PluginPackage
             var pluginList = new List<T>();
             foreach (var item in GetPlugins())
             {
+
                 if (item.Name == name)
                 {
                     var ibp = Activator.CreateInstance(item) as T;
