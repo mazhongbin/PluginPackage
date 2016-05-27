@@ -49,3 +49,6 @@ F:\Project\PluginPackage\PluginPackage.ContainerTests\bin\Debug\Test.ITest.pdb
 F:\Project\PluginPackage\PluginPackage.ContainerTests\obj\Debug\PluginPackage.Tests.csprojResolveAssemblyReference.cache
 F:\Project\PluginPackage\PluginPackage.ContainerTests\obj\Debug\PluginPackage.ContainerTests.dll
 F:\Project\PluginPackage\PluginPackage.ContainerTests\obj\Debug\PluginPackage.ContainerTests.pdb
+F:\Project\PluginPackage\PluginPackage.ContainerTests\bin\Debug\Json2KeyValue.dll
+F:\Project\PluginPackage\PluginPackage.ContainerTests\bin\Debug\NLog.dll
+F:\Project\PluginPackage\PluginPackage.ContainerTests\bin\Debug\NLog.xml

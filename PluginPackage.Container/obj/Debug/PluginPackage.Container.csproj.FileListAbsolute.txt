@@ -25,3 +25,6 @@ F:\Project\PluginPackage\PluginPackage.Container\bin\Debug\PluginPackage.Core.pd
 F:\Project\PluginPackage\PluginPackage.Container\obj\Debug\PluginPackage.Container.csprojResolveAssemblyReference.cache
 F:\Project\PluginPackage\PluginPackage.Container\obj\Debug\PluginPackage.Container.dll
 F:\Project\PluginPackage\PluginPackage.Container\obj\Debug\PluginPackage.Container.pdb
+F:\Project\PluginPackage\PluginPackage.Container\bin\Debug\Json2KeyValue.dll
+F:\Project\PluginPackage\PluginPackage.Container\bin\Debug\NLog.dll
+F:\Project\PluginPackage\PluginPackage.Container\bin\Debug\NLog.xml

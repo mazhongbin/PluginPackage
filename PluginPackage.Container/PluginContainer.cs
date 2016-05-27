@@ -12,7 +12,6 @@ namespace PluginPackage
         public override List<Type> GetPlugins()
         {
             return base.GetPlugins();
-
         }
 
         public override T GetPluginInstance<T>()

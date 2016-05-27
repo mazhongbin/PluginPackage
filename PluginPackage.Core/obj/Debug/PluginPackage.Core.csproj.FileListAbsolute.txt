@@ -11,4 +11,3 @@ F:\Project\PluginPackage\PluginPackage.Core\bin\Debug\PluginPackage.Core.dll
 F:\Project\PluginPackage\PluginPackage.Core\bin\Debug\PluginPackage.Core.pdb
 F:\Project\PluginPackage\PluginPackage.Core\obj\Debug\PluginPackage.Core.dll
 F:\Project\PluginPackage\PluginPackage.Core\obj\Debug\PluginPackage.Core.pdb
-F:\Project\PluginPackage\PluginPackage.Core\obj\Debug\PluginPackage.Core.csprojResolveAssemblyReference.cache
